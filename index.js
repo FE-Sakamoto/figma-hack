@@ -5,6 +5,7 @@
 // @description  export image base64
 // @author       FE-Sakamoto
 // @match        http*://www.figma.com/file/*
+// @updateURL    https://raw.githubusercontent.com/FE-Sakamoto/figma-hack/main/index.js
 // @icon         https://www.google.com/s2/favicons?domain=figma.com
 // @grant        none
 // ==/UserScript==
